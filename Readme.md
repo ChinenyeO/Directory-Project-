@@ -1,0 +1,1 @@
+This project is one that can find and display the paths of all of the files in a directory and then take action on some of those files that have interesting characteristics. 
